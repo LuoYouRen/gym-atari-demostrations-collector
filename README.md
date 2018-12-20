@@ -15,8 +15,9 @@ Requires pygame
 (`pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari_py`) for windows
 
 
-#Setting
+**key for playing:**
 
+大部分遊戲以方向鍵與空白鍵遊玩
 
 press b： 回溯
 
