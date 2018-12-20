@@ -8,12 +8,9 @@ Collect observations and actions by human playing.
 
 Use as `pythonw record_demo.py --game='MontezumaRevenge'`
 
-Requires pygame 
+Requires gym[atari]  (`pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari_py`) for windows
 
-    (`pip install pygame`) for linux
-
-    (`pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari_py`) for windows
-
+Requires pygame  (`pip install pygame`) 
 
 **key for playing:**
 
