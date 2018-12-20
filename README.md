@@ -16,7 +16,7 @@ Requires pygame  (`pip install pygame`)
 
 大部分遊戲以方向鍵與空白鍵遊玩
 
-press b： 回溯
+press b: 回溯
 
 press s: 儲存目前的遊玩進度並且將demonstrations存成 .bin檔 
 
