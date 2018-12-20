@@ -10,9 +10,9 @@ Use as `pythonw record_demo.py --game='MontezumaRevenge'`
 
 Requires pygame 
 
-(`pip install pygame`) for linux
+    (`pip install pygame`) for linux
 
-(`pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari_py`) for windows
+    (`pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari_py`) for windows
 
 
 **key for playing:**
